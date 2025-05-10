@@ -19,7 +19,7 @@ PDF Assistant is a Retrieval-Augmented Generation (RAG) chatbot that allows user
 
 ## Live Demo
 
-[Access the live application here](arulakashragpdfsystem.streamlit.app) <!-- Replace with your deployed URL -->
+[Access the live application here](akashragpdfsystem.streamlit.app) <!-- Replace with your deployed URL -->
 
 ## Installation & Setup
 
@@ -74,5 +74,5 @@ PDF Assistant is a Retrieval-Augmented Generation (RAG) chatbot that allows user
 5. **Run the application**
 
    ```
-   streamlit run app.py
+   streamlit run main.py
    ```
