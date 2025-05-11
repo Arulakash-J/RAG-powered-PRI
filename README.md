@@ -67,7 +67,7 @@ PDF Assistant is a Retrieval-Augmented Generation (RAG) chatbot that allows user
    CHUNK_SIZE=1000
    CHUNK_OVERLAP=100
    FILE_SIZE_LIMIT_MB=1
-   LLM_MODEL=llama3-70b-8192
+   LLM_MODEL=llama-3.3-70b-versatile
    ```
 
 
